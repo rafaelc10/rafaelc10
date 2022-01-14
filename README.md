@@ -1,6 +1,5 @@
-## Hi there! 👋
+## Hi 👋
 ###  I'm Rafael 😁
-####  Sou desenvolvedor web focado em HTML e CSS | JS | PHP 📁
 ####  UMESP - Análise e Desenvolvimento de Sistemas 2/5 🖥️
 <div>
   <a href="https://github.com/rafaelc10">
