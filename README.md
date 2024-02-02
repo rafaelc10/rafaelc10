@@ -1,7 +1,7 @@
 ## Olá 👋
 ###  Eu sou o  Rafael 😁
 ### Desenvolvedor Frontend
-####  UMESP - Análise e Desenvolvimento de Sistemas 5/5 🖥️
+#### Formado em Análise e Desenvolvimento de Sistemas pela UMESP 🖥️
 <div style="display: inline_block" width="100%">
   <a href="https://github.com/rafaelc10">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelc10&layout=compact&langs_count=7&theme=dracula"/>
@@ -27,7 +27,9 @@
 
 ## Estudando ✍️
 <div style="display: inline_block">
-    <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
 </div>
 
 <br/>
